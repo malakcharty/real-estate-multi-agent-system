@@ -1,0 +1,121 @@
+id,city,district,transaction,property_type,bedrooms,surface_m2,price_mad
+P001,Casablanca,Oasis,vente,appartement,3,120,2350000
+P002,Casablanca,Maarif,vente,appartement,3,110,2480000
+P003,Casablanca,CFC,vente,appartement,2,95,2150000
+P004,Casablanca,Ain Diab,vente,appartement,3,145,3650000
+P005,Rabat,Agdal,vente,appartement,3,125,2250000
+P006,Casablanca,Racine,location,appartement,3,140,13500
+P007,Marrakech,Gueliz,vente,villa,4,370,10610000
+P008,Casablanca,CFC,vente,appartement,2,65,1980000
+P009,Casablanca,Sidi Maarouf,location,studio,1,55,3500
+P010,Marrakech,Targa,vente,appartement,3,155,2500000
+P011,Casablanca,Palmier,vente,appartement,3,95,2020000
+P012,Marrakech,Hivernage,vente,appartement,1,75,940000
+P013,Mohammedia,Mannesmann,vente,villa,6,300,11090000
+P014,Rabat,Souissi,vente,villa,4,210,4310000
+P015,Marrakech,Palmeraie,vente,appartement,1,120,1940000
+P016,Tanger,Centre Ville,vente,appartement,1,130,4070000
+P017,Tanger,Iberia,vente,studio,0,70,1220000
+P018,Rabat,Souissi,vente,appartement,4,180,5290000
+P019,Casablanca,Racine,location,appartement,3,145,11000
+P020,Casablanca,CFC,location,appartement,4,140,20500
+P021,Mohammedia,Centre Ville,vente,studio,0,60,1430000
+P022,Casablanca,Gauthier,vente,villa,4,410,8610000
+P023,Casablanca,Racine,vente,studio,1,35,740000
+P024,Marrakech,Palmeraie,vente,appartement,1,170,2640000
+P025,Rabat,Hay Riad,vente,appartement,2,60,1690000
+P026,Mohammedia,Centre Ville,vente,appartement,1,155,3560000
+P027,Casablanca,Californie,location,appartement,1,100,14500
+P028,Rabat,Hay Riad,vente,appartement,2,105,3120000
+P029,Mohammedia,Centre Ville,vente,appartement,1,125,1640000
+P030,Rabat,Ocean,vente,appartement,4,120,3790000
+P031,Casablanca,CFC,vente,appartement,2,80,1860000
+P032,Tanger,Iberia,location,appartement,3,105,15000
+P033,Tanger,Iberia,vente,appartement,2,140,3780000
+P034,Casablanca,Gauthier,vente,appartement,4,170,5270000
+P035,Casablanca,Gauthier,vente,appartement,3,155,4680000
+P036,Rabat,Agdal,location,studio,1,50,8000
+P037,Casablanca,Californie,vente,appartement,3,115,3660000
+P038,Mohammedia,Mannesmann,vente,appartement,1,120,3310000
+P039,Casablanca,Maarif,vente,appartement,3,115,3280000
+P040,Casablanca,Racine,vente,appartement,2,120,1550000
+P041,Rabat,Agdal,vente,appartement,4,95,2850000
+P042,Rabat,Hay Riad,vente,villa,6,360,8550000
+P043,Casablanca,Ain Diab,vente,appartement,2,120,1740000
+P044,Mohammedia,La Siesta,vente,villa,3,300,7200000
+P045,Rabat,Souissi,vente,appartement,2,110,1910000
+P046,Casablanca,Ferme Bretonne,vente,studio,1,40,750000
+P047,Mohammedia,La Siesta,vente,appartement,3,175,2980000
+P048,Marrakech,Gueliz,vente,studio,0,70,1670000
+P049,Rabat,Hassan,vente,appartement,3,115,2520000
+P050,Marrakech,Targa,vente,appartement,4,120,2120000
+P051,Marrakech,Hivernage,vente,appartement,2,165,3420000
+P052,Casablanca,Californie,vente,villa,5,420,8110000
+P053,Casablanca,Ferme Bretonne,vente,appartement,4,165,2970000
+P054,Marrakech,Gueliz,vente,appartement,3,60,1900000
+P055,Rabat,Hassan,vente,appartement,4,135,3810000
+P056,Casablanca,CFC,vente,appartement,1,160,5090000
+P057,Casablanca,Sidi Maarouf,vente,appartement,3,115,2200000
+P058,Casablanca,Maarif,vente,appartement,2,170,2230000
+P059,Casablanca,Maarif,vente,appartement,2,80,2160000
+P060,Marrakech,Hivernage,vente,studio,0,70,2210000
+P061,Mohammedia,Mannesmann,vente,appartement,2,150,4290000
+P062,Casablanca,Gauthier,vente,appartement,1,145,4360000
+P063,Casablanca,Gauthier,vente,villa,4,280,10180000
+P064,Casablanca,Oasis,location,appartement,4,135,10000
+P065,Casablanca,Ferme Bretonne,vente,appartement,3,160,4430000
+P066,Casablanca,Palmier,vente,appartement,3,75,1050000
+P067,Rabat,Souissi,vente,appartement,1,105,1450000
+P068,Marrakech,Gueliz,vente,appartement,3,150,3580000
+P069,Casablanca,Gauthier,vente,appartement,3,135,2130000
+P070,Tanger,Centre Ville,vente,studio,0,40,920000
+P071,Casablanca,Oasis,vente,appartement,1,180,3400000
+P072,Rabat,Souissi,location,appartement,2,140,24000
+P073,Casablanca,Ain Diab,vente,appartement,2,130,2990000
+P074,Casablanca,Oasis,vente,appartement,4,65,1420000
+P075,Casablanca,Ferme Bretonne,vente,appartement,4,75,2260000
+P076,Casablanca,Oasis,vente,appartement,4,160,4530000
+P077,Mohammedia,La Siesta,location,appartement,2,95,14000
+P078,Rabat,Hay Riad,vente,appartement,1,130,2950000
+P079,Rabat,Souissi,vente,appartement,4,140,1710000
+P080,Casablanca,Sidi Maarouf,vente,appartement,3,75,2130000
+P081,Rabat,Souissi,location,appartement,3,75,11000
+P082,Rabat,Souissi,vente,appartement,4,135,3590000
+P083,Marrakech,Gueliz,vente,studio,1,40,750000
+P084,Mohammedia,Centre Ville,location,studio,1,75,12000
+P085,Casablanca,Gauthier,vente,appartement,3,70,1040000
+P086,Rabat,Agdal,vente,appartement,2,160,3280000
+P087,Casablanca,Sidi Maarouf,vente,appartement,1,110,3260000
+P088,Mohammedia,Mannesmann,location,appartement,4,55,9000
+P089,Marrakech,Palmeraie,vente,studio,0,40,1110000
+P090,Rabat,Hassan,location,studio,0,65,7000
+P091,Tanger,Iberia,vente,appartement,1,75,1120000
+P092,Casablanca,Ferme Bretonne,vente,appartement,3,170,3770000
+P093,Tanger,Centre Ville,vente,appartement,4,130,1610000
+P094,Mohammedia,La Siesta,location,appartement,4,135,9500
+P095,Marrakech,Gueliz,vente,villa,5,210,6550000
+P096,Casablanca,Californie,vente,studio,0,45,1310000
+P097,Rabat,Souissi,vente,appartement,4,145,2780000
+P098,Casablanca,Ain Diab,location,appartement,1,180,29500
+P099,Marrakech,Gueliz,vente,appartement,4,110,3340000
+P100,Rabat,Hassan,vente,appartement,1,65,1420000
+P101,Rabat,Hassan,location,appartement,4,125,16000
+P102,Rabat,Souissi,vente,studio,1,45,1090000
+P103,Rabat,Agdal,vente,appartement,3,65,2070000
+P104,Rabat,Souissi,vente,appartement,4,140,3640000
+P105,Rabat,Souissi,vente,appartement,2,175,2260000
+P106,Rabat,Hay Riad,vente,appartement,2,165,1980000
+P107,Tanger,Iberia,location,studio,0,55,7500
+P108,Casablanca,CFC,location,villa,3,400,68000
+P109,Marrakech,Targa,vente,appartement,4,75,1520000
+P110,Casablanca,Oasis,vente,studio,0,55,1070000
+P111,Rabat,Agdal,location,appartement,1,175,15000
+P112,Marrakech,Targa,vente,studio,1,75,1250000
+P113,Rabat,Souissi,vente,appartement,1,95,1230000
+P114,Mohammedia,Centre Ville,vente,studio,0,70,1670000
+P115,Casablanca,CFC,location,appartement,4,170,14500
+P116,Casablanca,Ain Diab,vente,appartement,1,90,1310000
+P117,Casablanca,Sidi Maarouf,location,appartement,4,70,7000
+P118,Casablanca,Gauthier,location,villa,6,450,34000
+P119,Casablanca,Bourgogne,location,studio,1,50,8500
+P120,Casablanca,Californie,vente,appartement,3,70,1270000

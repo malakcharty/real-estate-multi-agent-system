@@ -1,0 +1,7 @@
+﻿id,city,district,transaction,property_type,bedrooms,surface_m2,price_mad
+P001,Casablanca,Oasis,vente,appartement,3,120,2350000
+P002,Casablanca,Maarif,vente,appartement,3,110,2480000
+P003,Casablanca,CFC,vente,appartement,2,95,2150000
+P004,Casablanca,Ain Diab,vente,appartement,3,145,3650000
+P005,Rabat,Agdal,vente,appartement,3,125,2250000
+P006,Casablanca,Racine,location,appartement,3,140,13500
